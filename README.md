@@ -4,7 +4,7 @@ this project deals the basic implementation of how to secure API's created in Go
 * [more on jwt](https://jwt.io/)
 
 ## Instructions to run code:
--  Clone the repo
+-  Clone the repository 
      * git clone
  
 - Run the app using
